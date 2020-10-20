@@ -3,4 +3,4 @@
 To run the programs clone the repo.
 Run the program in the terminal using python3 <Program name>
 
-##Contributions are welcome. 
+## Contributions are welcome. 
