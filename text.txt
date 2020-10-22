@@ -1,0 +1,7 @@
+So as you can see here we have two files here this is the output file and this is the input
+file, here the in input file you can read the text but in output file the output file
+is converted to some other text using the substitution cipher which is not recognised
+which can’t be recognised by the third person until and unless he gets to know that the
+substitution cipher is used here so this is how you quote for substitution cipher and
+convert many more text, I hope this programming screen cast was useful to you guys.
+Happy learning.
